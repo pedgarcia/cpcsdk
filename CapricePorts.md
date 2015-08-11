@@ -1,0 +1,5 @@
+  * http://zx81.zx81.free.fr/serendipity/index.php?/categories/42-Amstrad (gp2x, source available, latest update in september 2009)
+  * http://zx81.zx81.free.fr/serendipity/index.php?/categories/3-Amstrad (psp, source available)
+  * http://coste.frederic.free.fr/cpc/cpc.htm (palm os, source available, some bugfixes to merge, some features : palm support, optimizations (may not be relevant in C++), virtual keyboard, ...)
+  * http://caprice32.cvs.sourceforge.net/viewvc/caprice32/caprice32/ (original caprice 32, seems there are some commits from june 2008, do we have them in our version ?)
+  * http://david.dantoine.org/contenido/4/ (gp2x, source available) (wii, source not available ?)
